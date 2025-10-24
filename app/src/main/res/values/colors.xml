@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="kuning">#FFFFEB3B</color>
+    <color name="biru">#FF2196F3</color>
+    <color name="hijau">#FF4CAF50</color>
+    <color name="merah">#FFF44336</color>
+    <color name="abu_abu">#FF9E9E9E</color>
+</resources>
